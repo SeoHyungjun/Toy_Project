@@ -1,0 +1,12 @@
+[submodule "Spring_study"]
+	path = Spring_study
+	url = git@github.com:SeoHyungjun/Spring_study.git
+[submodule "Android_APP"]
+	path = Android_APP
+	url = git@github.com:SeoHyungjun/Android_APP.git
+[submodule "NLP_study"]
+	path = NLP_study
+	url = git@github.com:SeoHyungjun/NLP_study.git
+[submodule "Python_study"]
+	path = Python_study
+	url = git@github.com:SeoHyungjun/Python_study.git
