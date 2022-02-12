@@ -10,3 +10,6 @@
 [submodule "Python_study"]
 	path = Python_study
 	url = git@github.com:SeoHyungjun/Python_study.git
+[submodule "Java_study"]
+	path = Java_study
+	url = git@github.com:SeoHyungjun/Java_study.git
