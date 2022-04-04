@@ -13,3 +13,6 @@
 [submodule "Java_study"]
 	path = Java_study
 	url = git@github.com:SeoHyungjun/Java_study.git
+[submodule "ML_study"]
+	path = ML_study
+	url = git@github.com:SeoHyungjun/ML_study.git
