@@ -16,3 +16,6 @@
 [submodule "ML_study"]
 	path = ML_study
 	url = git@github.com:SeoHyungjun/ML_study.git
+[submodule "Golf_Teacher"]
+	path = Golf_Teacher
+	url = git@github.com:SeoHyungjun/Golf_Teacher.git
