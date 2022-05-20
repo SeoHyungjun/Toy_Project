@@ -19,3 +19,6 @@
 [submodule "Golf_Teacher"]
 	path = Golf_Teacher
 	url = git@github.com:SeoHyungjun/Golf_Teacher.git
+[submodule "FastConnectBluetooth"]
+	path = FastConnectBluetooth
+	url = git@github.com:SeoHyungjun/FastConnectBluetooth.git
